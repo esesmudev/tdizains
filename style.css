@@ -14,6 +14,10 @@
     font-weight: 600;
     margin-bottom: 30px;
   }
+  a.to-top {
+    text-decoration: none;
+    color: #00b8a9;
+  }
   h4 {
     font-size: 19px;
     line-height: 1.375em;
